@@ -1,5 +1,7 @@
 # GoogleNET
 
+![image](https://github.com/farhanibnupp/GoogleNET/assets/101817054/f89a5e58-afc9-4fe9-875c-40161e81751e) 
+
 Gender classification menggunakan deep learning bertujuan untuk mengidentifikasi dan memisahkan antara karakteristik yang berkaitan dengan jenis kelamin dalam data, seperti suara, gambar wajah, atau teks. Hal ini dapat digunakan dalam berbagai konteks, seperti:
 
 1. **Analisis Sentimen**: Dalam analisis sentimen, mengetahui jenis kelamin pembicara bisa menjadi informasi tambahan yang berguna dalam memahami konteks dan nuansa dari teks yang dihasilkan.
